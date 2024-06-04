@@ -18,3 +18,6 @@ def RLVs(N):
     reciprocal_vectors.sort(key=lambda vec: np.linalg.norm(vec))
     return reciprocal_vectors
 ```
+
+- [x] thing that has been done
+- [ ] thing that needs to be done
